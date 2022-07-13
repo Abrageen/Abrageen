@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divyansh Gupta
-- 👀 I’m interested in Artificial Intelligence and Machien Learning
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning various advanced models in AI such as LSTM, GRU etc
 
 
